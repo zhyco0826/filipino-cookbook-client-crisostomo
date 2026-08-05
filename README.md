@@ -6,6 +6,7 @@ A web client application that consumes and displays data from the Filipino Cookb
 - Renders recipes, categories, and ingredient listings in a clean user interface.
 - Processes raw JSON responses into styled UI elements.
 
+##Screenshot
 ![Client UI](screenshot.png)
 
 ## Technologies Used
