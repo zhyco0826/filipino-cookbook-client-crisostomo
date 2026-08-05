@@ -6,6 +6,8 @@ A web client application that consumes and displays data from the Filipino Cookb
 - Renders recipes, categories, and ingredient listings in a clean user interface.
 - Processes raw JSON responses into styled UI elements.
 
+![Client UI](screenshot.png)
+
 ## Technologies Used
 - PHP, HTML5, CSS3, JavaScript
 - XAMPP / Apache
@@ -20,5 +22,5 @@ This client application consumes the Filipino Cookbook API developed by:
 - `GET /api/categories`
 
 ## Installation
-1. Clone this repository: `git clone https://github.com/zhyco0826/filipino-cookbook-client-crisostomo.git`
+Clone this repository: git clone https://github.com/zhyco0826/filipino-cookbook-client-crisostomo.git``
 2. Run via Apache on XAMPP.
